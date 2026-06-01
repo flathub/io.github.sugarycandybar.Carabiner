@@ -14,17 +14,6 @@
 		"--device=dri",
 		"--share=network"
 	],
-	"cleanup": [
-		"/include",
-		"/lib/pkgconfig",
-		"/man",
-		"/share/doc",
-		"/share/gtk-doc",
-		"/share/man",
-		"/share/pkgconfig",
-		"*.la",
-		"*.a"
-	],
 	"build-options": {
 		"append-path": "/usr/lib/sdk/rust-stable/bin",
 		"env": {
@@ -43,7 +32,7 @@
 				{
 					"type": "git",
 					"url": "https://github.com/sugarycandybar/Carabiner.git",
-					"commit": "b511626e260d85317b42a075a44626e19cc97f53"
+					"commit": "f1f8becab43eaf195b13189d4b201b4520b652aa"
 				},
 				"cargo-sources.json"
 			]
