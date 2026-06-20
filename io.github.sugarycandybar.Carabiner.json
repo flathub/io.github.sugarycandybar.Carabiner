@@ -32,7 +32,7 @@
 				{
 					"type": "git",
 					"url": "https://github.com/sugarycandybar/Carabiner.git",
-					"commit": "f1f8becab43eaf195b13189d4b201b4520b652aa"
+					"commit": "f955e28fcb107652d283b4960a5b312ba42ff06b"
 				},
 				"cargo-sources.json"
 			]
