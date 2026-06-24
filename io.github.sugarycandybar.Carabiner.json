@@ -4,6 +4,7 @@
 	"runtime-version": "50",
 	"sdk": "org.gnome.Sdk",
 	"command": "carabiner",
+	"separate-locales": false,
 	"sdk-extensions": [
 		"org.freedesktop.Sdk.Extension.rust-stable"
 	],
@@ -32,7 +33,7 @@
 				{
 					"type": "git",
 					"url": "https://github.com/sugarycandybar/Carabiner.git",
-					"commit": "e59d1555d7bf275f7eefe1a7a52fc180d9d0579d"
+					"commit": "3f93750f665a82c6ba27f2891160189cc9c029ae"
 				},
 				"cargo-sources.json"
 			]
